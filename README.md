@@ -2,7 +2,7 @@
 A simple desktop-based ToDo List Application built using Java Swing. This project provides a basic GUI where users can add, edit, remove, and clear tasks — great for beginners learning Java GUI development.
 
 ## 📸 Screenshot
-
+![ToDo List App Screenshot](ToDoListApp.png)
 
 ## 🚀 Features
   - ✅ Add new tasks
